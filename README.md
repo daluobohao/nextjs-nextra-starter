@@ -100,8 +100,4 @@ export default function Home() {
 
 ## 🌹 支持
 
-如果你喜欢这个项目或发现有用，可以点右上角 [`Star`](https://github.com/pdsuwwz/nextjs-nextra-starter) 支持一下，你的支持是我们不断改进的动力，感谢！ ^\_^
-
-## License
-
-[MIT](./LICENSE) License | Copyright © 2020-PRESENT [Wisdom](https://github.com/pdsuwwz)
+如果你喜欢这个项目或发现有用，可以点右上角 [`Star`](https://github.com/daluobohao/nextjs-nextra-starter) 支持一下，你的支持是我们不断改进的动力，感谢！ ^\_^
